@@ -1,6 +1,6 @@
 #DESAFIO DE PROJETO: COMPLETANDO O FRAMEWORK SCRUM
-Neste desafio, foi realizado ordenação correta das funções de cada ondividuo e grupo em um projeto ágil, usando o fremework Scrum.
-Ronaldo Bruno Cardoso
+-Neste desafio, foi realizado ordenação correta das funções de cada ondividuo e grupo em um projeto ágil, usando o fremework Scrum.
+- Eng. Ronaldo Bruno Cardoso 24-07-23
 
 Chegou a sua hora de brilhar! Preencha os esquemas conforme descrito abaixo, entregue o desafio na plataforma e compartilhe com a comunidade!
 Olá pessoal! É hora de colocar a mão na massa e brilhar no universo do Scrum! Estamos encarando o desafio de preencher o Framework Scrum com tudo que precisamos para alcançar o sucesso.
