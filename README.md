@@ -94,7 +94,7 @@ Papéis:
    - Responsabilidades: Equipe multifuncional que realiza o trabalho real de desenvolvimento, testes, design, etc., para entregar o incremento do produto dentro do prazo do Sprint.
 Com todos esses elementos trabalhando juntos, o Scrum fornece uma estrutura ágil para o desenvolvimento de produtos, promovendo a entrega contínua de valor aos clientes e a melhoria contínua do processo de trabalho da equipe.
 
-
+Link do projeto no MIRO: https://miro.com/app/board/uXjVMzwVTxg=/?share_link_id=417948091135
 
 
 
